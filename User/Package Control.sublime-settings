@@ -1,0 +1,9 @@
+{
+	"auto_upgrade_last_run": 1341301284,
+	"git_binary": "c:/railsinstaller/git/bin/git.exe",
+	"installed_packages":
+	[
+		"Alignment",
+		"Prefixr"
+	]
+}
